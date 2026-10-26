@@ -1,0 +1,85 @@
+body {
+    background-color: cyan;
+}
+
+
+.purpleText{
+    color: blueviolet;
+}
+
+.yellowText{
+    color:yellow; 
+}
+
+.orangeText{
+    color:orangered;
+}
+
+.greenText{
+    color: green;
+}
+
+.box-2 {
+  position: absolute;
+  top: 30px;
+  left: 800px;
+  border: 1px solid red;
+  background-color: rgb(237, 230, 252);
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  align-self: center;
+  margin-left: -1px;
+  margin-top: -1px;
+}
+
+.center{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+
+.left-0.1{
+position: absolute;
+left:1%;
+}
+
+.left-0{
+position: absolute;
+left:5%;
+}
+
+.left-1{
+    position: absolute;
+    left:30%;
+}
+
+.left-2{
+    position: absolute;
+    left:40%;
+}
+
+.left-3{
+    position: absolute;
+    left:70%;
+}
+
+.down-1{
+    position: absolute;
+    top: 20%;
+}
+
+.down-2{
+    position: absolute;
+    top: 40%;
+}
+
+.my-image-1{
+    width: 500px;
+  height: auto;
+}
+
+.my-image-2{
+    width: 200px;
+  height: auto;
+}
